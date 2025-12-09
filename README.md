@@ -64,15 +64,13 @@ Navegación clara y consistente
 
 5. Cómo Ejecutar el Proyecto
 
-Descarga el repositorio o usa git clone.
-
-Mantén la estructura de carpetas.
+Descarga el archivo y extraelo
 
 Abre index.html en cualquier navegador: Chrome, Firefox, Edge o Safari.
 
 Asegúrate de que la carpeta img esté en el mismo nivel que el resto de los archivos.
 
-No requiere instalación adicional.
+Y ya estaria.
 
 6. Navegación del Sitio
 
